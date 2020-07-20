@@ -1,6 +1,6 @@
 # TodoRxjs
 
-
+Deploy
 ```shell script
-npm install todomvc-app-css --save
+ng deploy --base-href=https://velascoandres.github.io/todo-rxjs/
 ```
